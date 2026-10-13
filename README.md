@@ -9,8 +9,12 @@
 
 ОБО МНЕ
 - Я крутой
-- У меня плохое зрение!
+- У меня плохое зрение! 
 - Я сделал это задание
+
+  <a href="https://media.tenor.com/xmQHvbjDqIQAAAAj/minecraft.gif">
+  <img src="https://media.tenor.com/xmQHvbjDqIQAAAAj/minecraft.gif" width="200" alt="Minecraft" />
+</a>
 
 ![Python](https://img.shields.io/badge/Python-WWWWWW?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-WWWWWW?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -24,11 +28,24 @@
 
 ![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=necessaryrent&layout=compact&theme=radical)
 
-хм.. Видимо интернет плохой..
+хм.. Видимо интернет плохой.. <img src="https://media1.tenor.com/m/EdKm_EPMwbAAAAAd/fat-cat-trying-to-scratch.gif" width="20" alt="Толстый кот пытается почесаться" />
 
 Я хочу сделать реактивный ранец новой модели,потому пишу коды на:
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
+
+
+
+
+
+
+
+
+
+
+![Minecraft](https://media.tenor.com/DdSSinolZlgAAAAi/minecraft.gif)
 <!--
 **necessaryrent/necessaryrent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
