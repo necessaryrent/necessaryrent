@@ -1,11 +1,11 @@
 ## КУ ВСЕМ И НИКОМУ 👋
 > Цитаты без цитат не нужны!
-<
+
 ###ОБО МНЕ###
 - Я крутой
 - У меня плохое зрение!
 - Я сделал это задание
-
+![GitHub Streak](https://streak-stats.demolab.com?user=E5capada&theme=radical)
 <!--
 **necessaryrent/necessaryrent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
