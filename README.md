@@ -3,7 +3,7 @@
 
 
 
-![Белый кот](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKBFla5IN2S61hK9ZEubpy6a6gzfDA860d42rp4cMaKQ&s)
+![Говорящий белый кот](https://media1.tenor.com/m/HaDyO0iGYhYAAAAd/%D0%B1%D0%B5%D0%BB%D1%8B%D0%B9-%D0%BA%D0%BE%D1%82-%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D1%82-white-cat-talks.gif)
 
 
 
