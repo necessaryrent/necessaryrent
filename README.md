@@ -8,7 +8,7 @@
 
   *Мой гитхабчанский:*
 
-![GitHub Streak](https://streak-stats.demolab.com?user=necessaryrent&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=necessaryrent&theme=green)
 
 Так как я программист,и имею опыт в несколько лет,вам может быть любопытно,на каких языках пишет такой профессионал как я!
 
