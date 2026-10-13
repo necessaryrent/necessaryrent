@@ -5,7 +5,7 @@
 - У меня плохое зрение!
 - Я сделал это задание
 #Что?#
-Моё лицо - ![тык]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=E5capada&layout=compact&theme=radical))
+Моё лицо - ![https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=E5capada&layout=compact&theme=radical](Color=green)
 <!--
 **necessaryrent/necessaryrent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
