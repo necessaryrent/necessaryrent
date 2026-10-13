@@ -1,11 +1,11 @@
 ## КУ ВСЕМ И НИКОМУ 👋
 > Цитаты без цитат не нужны!
 <
+###ОБО МНЕ###
 - Я крутой
 - У меня плохое зрение!
 - Я сделал это задание
-#Что?#
-Моё лицо - ![https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=E5capada&layout=compact&theme=radical](Color=green)
+
 <!--
 **necessaryrent/necessaryrent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
