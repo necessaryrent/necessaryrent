@@ -6,7 +6,7 @@
 - У меня плохое зрение!
 - Я сделал это задание
 
-![GitHub Streak](https://streak-stats.demolab.com?user=necesseryrent&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=necessaryrentt&theme=radical)
 <!--
 **necessaryrent/necessaryrent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
