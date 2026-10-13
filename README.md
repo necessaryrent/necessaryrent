@@ -28,7 +28,9 @@
 
 ![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=necessaryrent&layout=compact&theme=radical)
 
-хм.. Видимо интернет плохой.. <img src="https://media1.tenor.com/m/EdKm_EPMwbAAAAAd/fat-cat-trying-to-scratch.gif" width="20" alt="Толстый кот пытается почесаться" />
+хм.. Видимо интернет плохой..
+
+![Minecraft](https://media.tenor.com/DdSSinolZlgAAAAi/minecraft.gif)
 
 Я хочу сделать реактивный ранец новой модели,потому пишу коды на:
 
@@ -45,7 +47,59 @@
 
 
 
-![Minecraft](https://media.tenor.com/DdSSinolZlgAAAAi/minecraft.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="https://media1.tenor.com/m/EdKm_EPMwbAAAAAd/fat-cat-trying-to-scratch.gif" width="500" alt="Толстый кот пытается почесаться" />
 <!--
 **necessaryrent/necessaryrent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
